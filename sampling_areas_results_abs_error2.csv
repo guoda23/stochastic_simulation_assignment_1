@@ -1,0 +1,361 @@
+i,s,Sampling Method,Estimated Absolute Error,CI Upper Abs Error,CI Lower Abs Error
+5,49,Uniform Sampling,1.09592,1.38268,0.80916
+5,121,Uniform Sampling,1.31405,1.49261,1.13549
+5,169,Uniform Sampling,1.33669,1.51488,1.15849
+5,289,Uniform Sampling,1.25294,1.38104,1.12484
+5,361,Uniform Sampling,1.28643,1.39194,1.18092
+5,529,Uniform Sampling,1.26295,1.3788,1.1471
+10,49,Uniform Sampling,0.59388,0.82919,0.35857
+10,121,Uniform Sampling,0.49587,0.6383,0.35344
+10,169,Uniform Sampling,0.50769,0.63978,0.37561
+10,289,Uniform Sampling,0.42249,0.50896,0.33603
+10,361,Uniform Sampling,0.45125,0.55785,0.34464
+10,529,Uniform Sampling,0.49395,0.58154,0.40636
+15,49,Uniform Sampling,0.52041,0.70149,0.33932
+15,121,Uniform Sampling,0.34959,0.45582,0.24335
+15,169,Uniform Sampling,0.51657,0.61554,0.4176
+15,289,Uniform Sampling,0.34671,0.44215,0.25127
+15,361,Uniform Sampling,0.28006,0.35911,0.201
+15,529,Uniform Sampling,0.31815,0.39861,0.23768
+20,49,Uniform Sampling,0.50816,0.62305,0.39328
+20,121,Uniform Sampling,0.39917,0.50894,0.28941
+20,169,Uniform Sampling,0.29112,0.38377,0.19848
+20,289,Uniform Sampling,0.28235,0.35532,0.20938
+20,361,Uniform Sampling,0.24432,0.31387,0.17477
+20,529,Uniform Sampling,0.23308,0.28141,0.18475
+25,49,Uniform Sampling,0.52041,0.67751,0.3633
+25,121,Uniform Sampling,0.29256,0.38364,0.20148
+25,169,Uniform Sampling,0.33018,0.42835,0.23201
+25,289,Uniform Sampling,0.22111,0.28656,0.15566
+25,361,Uniform Sampling,0.241,0.31157,0.17042
+25,529,Uniform Sampling,0.18091,0.22293,0.13888
+30,49,Uniform Sampling,0.4898,0.60698,0.37261
+30,121,Uniform Sampling,0.29752,0.37642,0.21863
+30,169,Uniform Sampling,0.26982,0.34329,0.19635
+30,289,Uniform Sampling,0.24083,0.29183,0.18983
+30,361,Uniform Sampling,0.20443,0.26163,0.14723
+30,529,Uniform Sampling,0.20756,0.25891,0.15621
+35,49,Uniform Sampling,0.55102,0.72378,0.37826
+35,121,Uniform Sampling,0.34959,0.42509,0.27409
+35,169,Uniform Sampling,0.3,0.3715,0.2285
+35,289,Uniform Sampling,0.22111,0.28402,0.1582
+35,361,Uniform Sampling,0.25596,0.3266,0.18531
+35,529,Uniform Sampling,0.19282,0.24955,0.13608
+40,49,Uniform Sampling,0.53265,0.68796,0.37735
+40,121,Uniform Sampling,0.36694,0.45384,0.28005
+40,169,Uniform Sampling,0.24142,0.33,0.15284
+40,289,Uniform Sampling,0.18478,0.22892,0.14063
+40,361,Uniform Sampling,0.19861,0.2641,0.13313
+40,529,Uniform Sampling,0.19905,0.25795,0.14016
+45,49,Uniform Sampling,0.50816,0.64257,0.37376
+45,121,Uniform Sampling,0.39421,0.47743,0.311
+45,169,Uniform Sampling,0.31243,0.3746,0.25025
+45,289,Uniform Sampling,0.19827,0.25823,0.13831
+45,361,Uniform Sampling,0.21274,0.27161,0.15388
+45,529,Uniform Sampling,0.18204,0.23279,0.1313
+50,49,Uniform Sampling,0.59388,0.74206,0.4457
+50,121,Uniform Sampling,0.37438,0.46849,0.28027
+50,169,Uniform Sampling,0.26272,0.33656,0.18888
+50,289,Uniform Sampling,0.22837,0.29165,0.1651
+50,361,Uniform Sampling,0.22936,0.30107,0.15765
+50,529,Uniform Sampling,0.19452,0.24104,0.14799
+55,49,Uniform Sampling,0.53878,0.65541,0.42214
+55,121,Uniform Sampling,0.35207,0.4585,0.24563
+55,169,Uniform Sampling,0.33373,0.42356,0.24389
+55,289,Uniform Sampling,0.17751,0.23266,0.12236
+55,361,Uniform Sampling,0.18698,0.2358,0.13816
+55,529,Uniform Sampling,0.18828,0.24169,0.13487
+60,49,Uniform Sampling,0.53878,0.70958,0.36797
+60,121,Uniform Sampling,0.29008,0.37272,0.20745
+60,169,Uniform Sampling,0.31598,0.40968,0.22228
+60,289,Uniform Sampling,0.2045,0.25876,0.15024
+60,361,Uniform Sampling,0.19114,0.25434,0.12793
+60,529,Uniform Sampling,0.14575,0.19357,0.09792
+65,49,Uniform Sampling,0.56939,0.71938,0.4194
+65,121,Uniform Sampling,0.33223,0.44887,0.21559
+65,169,Uniform Sampling,0.28225,0.36043,0.20406
+65,289,Uniform Sampling,0.17647,0.21586,0.13709
+65,361,Uniform Sampling,0.20609,0.26168,0.15051
+65,529,Uniform Sampling,0.20019,0.25855,0.14183
+70,49,Uniform Sampling,0.56939,0.72364,0.41513
+70,121,Uniform Sampling,0.32231,0.41917,0.22546
+70,169,Uniform Sampling,0.3284,0.4227,0.2341
+70,289,Uniform Sampling,0.23668,0.2996,0.17375
+70,361,Uniform Sampling,0.23518,0.30509,0.16527
+70,529,Uniform Sampling,0.16673,0.21905,0.11441
+75,49,Uniform Sampling,0.55714,0.70178,0.41251
+75,121,Uniform Sampling,0.3124,0.39943,0.22536
+75,169,Uniform Sampling,0.22722,0.3119,0.14254
+75,289,Uniform Sampling,0.2045,0.25918,0.14981
+75,361,Uniform Sampling,0.17784,0.22963,0.12605
+75,529,Uniform Sampling,0.19735,0.25724,0.13747
+80,49,Uniform Sampling,0.56327,0.71813,0.4084
+80,121,Uniform Sampling,0.35455,0.47049,0.2386
+80,169,Uniform Sampling,0.31243,0.39158,0.23327
+80,289,Uniform Sampling,0.15882,0.21227,0.10537
+80,361,Uniform Sampling,0.2036,0.26078,0.14642
+80,529,Uniform Sampling,0.19905,0.25447,0.14364
+85,49,Uniform Sampling,0.55102,0.70491,0.39713
+85,121,Uniform Sampling,0.24298,0.30859,0.17736
+85,169,Uniform Sampling,0.23787,0.31805,0.15769
+85,289,Uniform Sampling,0.22734,0.29299,0.16169
+85,361,Uniform Sampling,0.21108,0.27258,0.14958
+85,529,Uniform Sampling,0.19565,0.24356,0.14774
+90,49,Uniform Sampling,0.67959,0.84184,0.51734
+90,121,Uniform Sampling,0.29504,0.37576,0.21432
+90,169,Uniform Sampling,0.30533,0.39192,0.21874
+90,289,Uniform Sampling,0.18789,0.23976,0.13602
+90,361,Uniform Sampling,0.27008,0.35628,0.18389
+90,529,Uniform Sampling,0.16049,0.21382,0.10717
+95,49,Uniform Sampling,0.43469,0.56641,0.30297
+95,121,Uniform Sampling,0.30248,0.3953,0.20966
+95,169,Uniform Sampling,0.29112,0.37847,0.20378
+95,289,Uniform Sampling,0.18478,0.24359,0.12596
+95,361,Uniform Sampling,0.22355,0.27669,0.17041
+95,529,Uniform Sampling,0.16219,0.21019,0.11419
+100,49,Uniform Sampling,0.5449,0.69718,0.39262
+100,121,Uniform Sampling,0.27769,0.3661,0.18927
+100,169,Uniform Sampling,0.30355,0.38713,0.21997
+100,289,Uniform Sampling,0.1692,0.22018,0.11822
+100,361,Uniform Sampling,0.24598,0.30403,0.18794
+100,529,Uniform Sampling,0.169,0.21957,0.11842
+5,49,Latin Hypercube Sampling,1.27347,1.41748,1.12945
+5,121,Latin Hypercube Sampling,1.23967,1.31163,1.16771
+5,169,Latin Hypercube Sampling,1.28343,1.37071,1.19615
+5,289,Latin Hypercube Sampling,1.28927,1.35403,1.22452
+5,361,Latin Hypercube Sampling,1.25983,1.3197,1.19996
+5,529,Latin Hypercube Sampling,1.22268,1.26707,1.1783
+10,49,Latin Hypercube Sampling,0.44082,0.53881,0.34282
+10,121,Latin Hypercube Sampling,0.45372,0.50991,0.39753
+10,169,Latin Hypercube Sampling,0.47041,0.52692,0.41391
+10,289,Latin Hypercube Sampling,0.45882,0.50001,0.41763
+10,361,Latin Hypercube Sampling,0.48033,0.52886,0.43181
+10,529,Latin Hypercube Sampling,0.48998,0.51826,0.4617
+15,49,Latin Hypercube Sampling,0.2449,0.32409,0.1657
+15,121,Latin Hypercube Sampling,0.27521,0.32256,0.22785
+15,169,Latin Hypercube Sampling,0.26272,0.29888,0.22657
+15,289,Latin Hypercube Sampling,0.25848,0.28699,0.22997
+15,361,Latin Hypercube Sampling,0.27756,0.31061,0.24451
+15,529,Latin Hypercube Sampling,0.28015,0.29959,0.26071
+20,49,Latin Hypercube Sampling,0.14694,0.21036,0.08351
+20,121,Latin Hypercube Sampling,0.18347,0.22324,0.1437
+20,169,Latin Hypercube Sampling,0.18462,0.21583,0.1534
+20,289,Latin Hypercube Sampling,0.17024,0.19134,0.14914
+20,361,Latin Hypercube Sampling,0.18698,0.21911,0.15485
+20,529,Latin Hypercube Sampling,0.18885,0.20677,0.17093
+25,49,Latin Hypercube Sampling,0.09796,0.14805,0.04787
+25,121,Latin Hypercube Sampling,0.13884,0.17584,0.10184
+25,169,Latin Hypercube Sampling,0.13314,0.15804,0.10823
+25,289,Latin Hypercube Sampling,0.12561,0.14643,0.10479
+25,361,Latin Hypercube Sampling,0.13795,0.16525,0.11065
+25,529,Latin Hypercube Sampling,0.13667,0.14986,0.12349
+30,49,Latin Hypercube Sampling,0.0551,0.08707,0.02314
+30,121,Latin Hypercube Sampling,0.11405,0.15032,0.07778
+30,169,Latin Hypercube Sampling,0.09231,0.11315,0.07146
+30,289,Latin Hypercube Sampling,0.09758,0.11731,0.07785
+30,361,Latin Hypercube Sampling,0.10637,0.12696,0.08578
+30,529,Latin Hypercube Sampling,0.10548,0.1179,0.09306
+35,49,Latin Hypercube Sampling,0.04898,0.07983,0.01813
+35,121,Latin Hypercube Sampling,0.09917,0.13206,0.06628
+35,169,Latin Hypercube Sampling,0.07101,0.08935,0.05267
+35,289,Latin Hypercube Sampling,0.07266,0.09056,0.05477
+35,361,Latin Hypercube Sampling,0.08227,0.10026,0.06428
+35,529,Latin Hypercube Sampling,0.0828,0.09503,0.07057
+40,49,Latin Hypercube Sampling,0.04898,0.07983,0.01813
+40,121,Latin Hypercube Sampling,0.0719,0.09966,0.04414
+40,169,Latin Hypercube Sampling,0.05858,0.07693,0.04023
+40,289,Latin Hypercube Sampling,0.05294,0.06731,0.03857
+40,361,Latin Hypercube Sampling,0.06731,0.0828,0.05182
+40,529,Latin Hypercube Sampling,0.06352,0.07482,0.05221
+45,49,Latin Hypercube Sampling,0.03673,0.06464,0.00883
+45,121,Latin Hypercube Sampling,0.05455,0.07974,0.02935
+45,169,Latin Hypercube Sampling,0.05148,0.06993,0.03303
+45,289,Latin Hypercube Sampling,0.0436,0.05604,0.03116
+45,361,Latin Hypercube Sampling,0.05651,0.07116,0.04185
+45,529,Latin Hypercube Sampling,0.04934,0.05953,0.03914
+50,49,Latin Hypercube Sampling,0.03061,0.05661,0.00462
+50,121,Latin Hypercube Sampling,0.03471,0.05364,0.01578
+50,169,Latin Hypercube Sampling,0.03728,0.05124,0.02331
+50,289,Latin Hypercube Sampling,0.03841,0.05161,0.02521
+50,361,Latin Hypercube Sampling,0.04737,0.05968,0.03506
+50,529,Latin Hypercube Sampling,0.03913,0.04829,0.02997
+55,49,Latin Hypercube Sampling,0.03061,0.05661,0.00462
+55,121,Latin Hypercube Sampling,0.03223,0.05109,0.01338
+55,169,Latin Hypercube Sampling,0.0355,0.04964,0.02136
+55,289,Latin Hypercube Sampling,0.03218,0.04458,0.01978
+55,361,Latin Hypercube Sampling,0.03989,0.05099,0.02879
+55,529,Latin Hypercube Sampling,0.03346,0.04188,0.02504
+60,49,Latin Hypercube Sampling,0.02449,0.0482,0.00078
+60,121,Latin Hypercube Sampling,0.02975,0.04701,0.01249
+60,169,Latin Hypercube Sampling,0.03018,0.04368,0.01668
+60,289,Latin Hypercube Sampling,0.02595,0.03657,0.01534
+60,361,Latin Hypercube Sampling,0.03241,0.04223,0.02259
+60,529,Latin Hypercube Sampling,0.02722,0.03497,0.01947
+65,49,Latin Hypercube Sampling,0.02449,0.0482,0.00078
+65,121,Latin Hypercube Sampling,0.02479,0.04164,0.00795
+65,169,Latin Hypercube Sampling,0.01953,0.02927,0.00978
+65,289,Latin Hypercube Sampling,0.02284,0.03196,0.01371
+65,361,Latin Hypercube Sampling,0.02659,0.03604,0.01715
+65,529,Latin Hypercube Sampling,0.02382,0.03082,0.01682
+70,49,Latin Hypercube Sampling,0.02449,0.0482,0.00078
+70,121,Latin Hypercube Sampling,0.01488,0.02833,0.00143
+70,169,Latin Hypercube Sampling,0.01775,0.02729,0.00822
+70,289,Latin Hypercube Sampling,0.01765,0.02554,0.00975
+70,361,Latin Hypercube Sampling,0.01994,0.0282,0.01169
+70,529,Latin Hypercube Sampling,0.01985,0.02588,0.01381
+75,49,Latin Hypercube Sampling,0.00612,0.01864,-0.0064
+75,121,Latin Hypercube Sampling,0.01488,0.02833,0.00143
+75,169,Latin Hypercube Sampling,0.0142,0.02315,0.00526
+75,289,Latin Hypercube Sampling,0.01246,0.01901,0.00591
+75,361,Latin Hypercube Sampling,0.0133,0.02009,0.0065
+75,529,Latin Hypercube Sampling,0.01701,0.02303,0.011
+80,49,Latin Hypercube Sampling,0.00612,0.01864,-0.0064
+80,121,Latin Hypercube Sampling,0.0124,0.0252,-0.00041
+80,169,Latin Hypercube Sampling,0.01065,0.01874,0.00256
+80,289,Latin Hypercube Sampling,0.00934,0.01556,0.00312
+80,361,Latin Hypercube Sampling,0.00997,0.01576,0.00419
+80,529,Latin Hypercube Sampling,0.01134,0.01616,0.00653
+85,49,Latin Hypercube Sampling,0.00612,0.01864,-0.0064
+85,121,Latin Hypercube Sampling,0.0124,0.0252,-0.00041
+85,169,Latin Hypercube Sampling,0.00888,0.01641,0.00134
+85,289,Latin Hypercube Sampling,0.00623,0.01096,0.0015
+85,361,Latin Hypercube Sampling,0.00831,0.01396,0.00266
+85,529,Latin Hypercube Sampling,0.00737,0.01135,0.0034
+90,49,Latin Hypercube Sampling,0.00612,0.01864,-0.0064
+90,121,Latin Hypercube Sampling,0.00744,0.01591,-0.00104
+90,169,Latin Hypercube Sampling,0.0071,0.01398,0.00023
+90,289,Latin Hypercube Sampling,0.00623,0.01096,0.0015
+90,361,Latin Hypercube Sampling,0.00582,0.01051,0.00113
+90,529,Latin Hypercube Sampling,0.0034,0.00599,0.00082
+95,49,Latin Hypercube Sampling,0.00612,0.01864,-0.0064
+95,121,Latin Hypercube Sampling,0.00496,0.01201,-0.00209
+95,169,Latin Hypercube Sampling,0.00178,0.00541,-0.00186
+95,289,Latin Hypercube Sampling,0.00519,0.0096,0.00078
+95,361,Latin Hypercube Sampling,0.00249,0.00533,-0.00035
+95,529,Latin Hypercube Sampling,0.0017,0.00364,-0.00024
+100,49,Latin Hypercube Sampling,0.0,0.0,0.0
+100,121,Latin Hypercube Sampling,0.0,0.0,0.0
+100,169,Latin Hypercube Sampling,0.0,0.0,0.0
+100,289,Latin Hypercube Sampling,0.0,0.0,0.0
+100,361,Latin Hypercube Sampling,0.0,0.0,0.0
+100,529,Latin Hypercube Sampling,0.0,0.0,0.0
+5,49,Orthogonal Sampling,1.24898,1.35913,1.13883
+5,121,Orthogonal Sampling,1.28182,1.33625,1.22739
+5,169,Orthogonal Sampling,1.22485,1.27467,1.17504
+5,289,Orthogonal Sampling,1.26644,1.29895,1.23393
+5,361,Orthogonal Sampling,1.2349,1.25806,1.21174
+5,529,Orthogonal Sampling,1.24026,1.25909,1.22144
+10,49,Orthogonal Sampling,0.46531,0.55305,0.37756
+10,121,Orthogonal Sampling,0.44132,0.49826,0.38439
+10,169,Orthogonal Sampling,0.50059,0.54947,0.45171
+10,289,Orthogonal Sampling,0.47958,0.51284,0.44633
+10,361,Orthogonal Sampling,0.45706,0.47951,0.43461
+10,529,Orthogonal Sampling,0.48261,0.50582,0.4594
+15,49,Orthogonal Sampling,0.28163,0.35531,0.20796
+15,121,Orthogonal Sampling,0.25537,0.30246,0.20828
+15,169,Orthogonal Sampling,0.26805,0.29827,0.23783
+15,289,Orthogonal Sampling,0.27924,0.30731,0.25117
+15,361,Orthogonal Sampling,0.25762,0.2841,0.23114
+15,529,Orthogonal Sampling,0.27561,0.29258,0.25865
+20,49,Orthogonal Sampling,0.18367,0.25107,0.11628
+20,121,Orthogonal Sampling,0.16612,0.20161,0.13062
+20,169,Orthogonal Sampling,0.17751,0.2038,0.15123
+20,289,Orthogonal Sampling,0.17232,0.19689,0.14775
+20,361,Orthogonal Sampling,0.16704,0.18692,0.14715
+20,529,Orthogonal Sampling,0.18091,0.19511,0.1667
+25,49,Orthogonal Sampling,0.12245,0.17747,0.06742
+25,121,Orthogonal Sampling,0.12645,0.15752,0.09537
+25,169,Orthogonal Sampling,0.13846,0.15974,0.11718
+25,289,Orthogonal Sampling,0.1308,0.15248,0.10912
+25,361,Orthogonal Sampling,0.12465,0.14343,0.10588
+25,529,Orthogonal Sampling,0.13157,0.14703,0.1161
+30,49,Orthogonal Sampling,0.09796,0.14805,0.04787
+30,121,Orthogonal Sampling,0.09421,0.12423,0.0642
+30,169,Orthogonal Sampling,0.11006,0.12955,0.09057
+30,289,Orthogonal Sampling,0.0955,0.11597,0.07503
+30,361,Orthogonal Sampling,0.0964,0.11449,0.07831
+30,529,Orthogonal Sampling,0.09584,0.10816,0.08353
+35,49,Orthogonal Sampling,0.06735,0.10952,0.02517
+35,121,Orthogonal Sampling,0.06942,0.09665,0.0422
+35,169,Orthogonal Sampling,0.09053,0.10874,0.07233
+35,289,Orthogonal Sampling,0.07889,0.0961,0.06169
+35,361,Orthogonal Sampling,0.07064,0.08592,0.05535
+35,529,Orthogonal Sampling,0.07202,0.08213,0.06192
+40,49,Orthogonal Sampling,0.04286,0.08184,0.00388
+40,121,Orthogonal Sampling,0.06446,0.09049,0.03844
+40,169,Orthogonal Sampling,0.07988,0.09533,0.06443
+40,289,Orthogonal Sampling,0.05813,0.07135,0.04491
+40,361,Orthogonal Sampling,0.05651,0.07137,0.04165
+40,529,Orthogonal Sampling,0.05898,0.06711,0.05085
+45,49,Orthogonal Sampling,0.04286,0.08184,0.00388
+45,121,Orthogonal Sampling,0.04463,0.06602,0.02324
+45,169,Orthogonal Sampling,0.06746,0.08306,0.05185
+45,289,Orthogonal Sampling,0.04983,0.06067,0.03899
+45,361,Orthogonal Sampling,0.04737,0.06061,0.03412
+45,529,Orthogonal Sampling,0.04594,0.05463,0.03724
+50,49,Orthogonal Sampling,0.04286,0.08184,0.00388
+50,121,Orthogonal Sampling,0.03471,0.05218,0.01725
+50,169,Orthogonal Sampling,0.05858,0.07367,0.04349
+50,289,Orthogonal Sampling,0.04152,0.05308,0.02996
+50,361,Orthogonal Sampling,0.04238,0.05464,0.03012
+50,529,Orthogonal Sampling,0.03856,0.04689,0.03023
+55,49,Orthogonal Sampling,0.03673,0.06995,0.00352
+55,121,Orthogonal Sampling,0.02975,0.0454,0.01411
+55,169,Orthogonal Sampling,0.04615,0.06159,0.03072
+55,289,Orthogonal Sampling,0.02803,0.03832,0.01774
+55,361,Orthogonal Sampling,0.03657,0.04848,0.02466
+55,529,Orthogonal Sampling,0.03062,0.0392,0.02205
+60,49,Orthogonal Sampling,0.03061,0.05661,0.00462
+60,121,Orthogonal Sampling,0.02479,0.03998,0.00961
+60,169,Orthogonal Sampling,0.04083,0.0553,0.02635
+60,289,Orthogonal Sampling,0.02388,0.03431,0.01344
+60,361,Orthogonal Sampling,0.03075,0.04159,0.0199
+60,529,Orthogonal Sampling,0.02722,0.03497,0.01947
+65,49,Orthogonal Sampling,0.03061,0.05661,0.00462
+65,121,Orthogonal Sampling,0.02231,0.03717,0.00746
+65,169,Orthogonal Sampling,0.03728,0.05023,0.02433
+65,289,Orthogonal Sampling,0.02284,0.03339,0.01229
+65,361,Orthogonal Sampling,0.02659,0.03695,0.01624
+65,529,Orthogonal Sampling,0.02042,0.02675,0.01408
+70,49,Orthogonal Sampling,0.01837,0.03929,-0.00256
+70,121,Orthogonal Sampling,0.01488,0.02618,0.00358
+70,169,Orthogonal Sampling,0.02663,0.03915,0.0141
+70,289,Orthogonal Sampling,0.01869,0.02764,0.00973
+70,361,Orthogonal Sampling,0.01911,0.02848,0.00975
+70,529,Orthogonal Sampling,0.01588,0.02087,0.01089
+75,49,Orthogonal Sampling,0.01224,0.02965,-0.00516
+75,121,Orthogonal Sampling,0.01488,0.02618,0.00358
+75,169,Orthogonal Sampling,0.01598,0.02661,0.00534
+75,289,Orthogonal Sampling,0.01557,0.0235,0.00764
+75,361,Orthogonal Sampling,0.0133,0.02009,0.0065
+75,529,Orthogonal Sampling,0.01304,0.01796,0.00813
+80,49,Orthogonal Sampling,0.01224,0.02965,-0.00516
+80,121,Orthogonal Sampling,0.00992,0.01952,0.00031
+80,169,Orthogonal Sampling,0.01243,0.02245,0.0024
+80,289,Orthogonal Sampling,0.01142,0.01712,0.00572
+80,361,Orthogonal Sampling,0.01247,0.01882,0.00611
+80,529,Orthogonal Sampling,0.01078,0.01591,0.00564
+85,49,Orthogonal Sampling,0.00612,0.01864,-0.0064
+85,121,Orthogonal Sampling,0.00496,0.01201,-0.00209
+85,169,Orthogonal Sampling,0.00888,0.01805,-0.00029
+85,289,Orthogonal Sampling,0.00934,0.01476,0.00392
+85,361,Orthogonal Sampling,0.00665,0.01084,0.00246
+85,529,Orthogonal Sampling,0.00794,0.01258,0.0033
+90,49,Orthogonal Sampling,0.00612,0.01864,-0.0064
+90,121,Orthogonal Sampling,0.00496,0.01201,-0.00209
+90,169,Orthogonal Sampling,0.0071,0.01398,0.00023
+90,289,Orthogonal Sampling,0.0083,0.01353,0.00307
+90,361,Orthogonal Sampling,0.00332,0.00654,0.00011
+90,529,Orthogonal Sampling,0.0051,0.00924,0.00097
+95,49,Orthogonal Sampling,0.0,0.0,0.0
+95,121,Orthogonal Sampling,0.0,0.0,0.0
+95,169,Orthogonal Sampling,0.00533,0.01139,-0.00074
+95,289,Orthogonal Sampling,0.00415,0.00817,0.00013
+95,361,Orthogonal Sampling,0.0,0.0,0.0
+95,529,Orthogonal Sampling,0.00057,0.00173,-0.00059
+100,49,Orthogonal Sampling,0.0,0.0,0.0
+100,121,Orthogonal Sampling,0.0,0.0,0.0
+100,169,Orthogonal Sampling,0.0,0.0,0.0
+100,289,Orthogonal Sampling,0.0,0.0,0.0
+100,361,Orthogonal Sampling,0.0,0.0,0.0
+100,529,Orthogonal Sampling,0.0,0.0,0.0
